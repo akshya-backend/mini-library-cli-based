@@ -1,0 +1,17 @@
+{
+    "books": [
+        {
+            "title": "GOT",
+            "author": "GG",
+            "copies": 1
+        }
+    ],
+    "members": [
+        {
+            "name": "AK",
+            "borrowed_books": {
+                "GOT": "2025-08-24"
+            }
+        }
+    ]
+}
