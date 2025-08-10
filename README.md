@@ -25,4 +25,4 @@ It allows you to manage books, members, borrowing and returning books with due d
 4. Run the program with:
 
    ```bash
-   python your_script_name.py
+   python library.py
